@@ -30,8 +30,8 @@ Make sure you have the following installed:
    git clone https://github.com/AAAZZZR/RL_racing_game.git
    cd RL_racing_game
    npm start
-2.
-  back to root dir
+2. back to root dir
+   ```bash
   cd RL_training/env
-  run ai_client
+  python ai_client.py
   
